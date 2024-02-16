@@ -1,0 +1,52 @@
+pandas-: 1. Sereies- one dim array
+		 2. Dataframe- multidim array in row & col.
+
+import pandas as pd
+
+df = pd.read_csv("")
+
+df.head(n)# top five records
+df.tail()# bottom five
+df.info()
+type
+no of rows
+no of col
+non nullcount
+
+df.describe()
+
+
+
+
+statical info of numerical col.
+
+r,c = df.shape()
+(r,c)#(500,17)
+
+df.iloc([10:15])
+df.loc()
+
+df.isnull()
+df.notnull()
+df.fillna()
+
+df.drop_duplicates()
+
+df.columns()
+df.col_name
+df['col_name']
+
+df[['col_name', col2,col3]]
+
+df['col_name'].value_counts()
+
+df[[df.salary>5000]]
+
+isnull()
+notnull()
+inplace
+dropna()
+replace()
+fillna()
+
+Matplotlib--
