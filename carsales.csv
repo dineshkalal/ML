@@ -1,0 +1,35 @@
+Make,Year,Price,Milage,FuelType,BodyType,EngineSize
+Toyota,2010,2500000,18,Petrol,Sedan,1.0 L
+Honda,2012,2000000,20,Diesel,SUV (Sport Utility Vehicle),1.5 L
+Ford,2015,1800000,22,Electric,Hatchback,2.0 L
+Chevrolet,2018,2200000,25,CNG,Coupe,2.5 L
+Volkswagen,2022,,24,Hybrid,Convertible,3.0 L
+,2022,2500000,18,Petrol,Wagon,3.5 L
+BMW,2023,2000000,20,Diesel,Truck,4.0 L
+Audi,2000,1800000,22,Electric,Van,4.5 L
+Mercedes-Benz,2000,2200000,25,CNG,Minivan,5.0 L
+,2015,,24,Hybrid,Pickup,5.5 L
+Toyota,,2500000,18,Petrol,Sedan,1.0 L
+Honda,2019,2000000,20,Diesel,SUV (Sport Utility Vehicle),1.5 L
+Ford,2022,1800000,22,Electric,Hatchback,2.0 L
+Chevrolet,2019,2200000,,CNG,Coupe,2.5 L
+Volkswagen,2018,2500000,24,Hybrid,Convertible,3.0 L
+Nissan,2018,2000000,18,Petrol,Wagon,3.5 L
+BMW,2018,1800000,20,Diesel,Truck,4.0 L
+Audi,2015,2200000,22,Electric,Van,4.5 L
+Mercedes-Benz,2015,2500000,,CNG,Minivan,5.0 L
+Hyundai,2019,2000000,24,Hybrid,Pickup,5.5 L
+Toyota,2022,1800000,18,Petrol,Sedan,1.0 L
+Honda,2019,2200000,20,Diesel,SUV (Sport Utility Vehicle),1.5 L
+Ford,2018,,22,Electric,Hatchback,2.0 L
+Chevrolet,2018,2500000,25,CNG,Coupe,2.5 L
+Volkswagen,,2000000,24,Hybrid,Convertible,3.0 L
+Nissan,,1800000,,Petrol,Wagon,3.5 L
+BMW,2019,2200000,18,Diesel,Truck,4.0 L
+Audi,2022,,20,Electric,Van,4.5 L
+Mercedes-Benz,2019,2500000,22,CNG,Minivan,5.0 L
+Hyundai,2018,2000000,25,Hybrid,Pickup,5.5 L
+Toyota,2018,1800000,24,,Sedan,1.0 L
+Honda,2020,2200000,,CNG,,1.5 L
+Ford,2020,1500000,22,,Hatchback,2.0 L
+Chevrolet,2022,1200000,24,Petrol,Coupe,2.5 L
