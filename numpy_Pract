@@ -1,0 +1,48 @@
+
+Basics of NumPy
+
+    Create a 1D NumPy array with elements from 1 to 10.
+    Create a 3x3 NumPy array filled with zeros.
+    Create a 4x4 identity matrix using NumPy.
+    Generate a 5x5 array filled with random numbers between 0 and 1.
+    Create a NumPy array of 10 elements, all initialized to the value 7.
+    Reshape a 1D array of size 12 into a 3x4 2D array.
+    Find the dimensions, shape, and size of a given NumPy array.
+    Extract all even numbers from a NumPy array [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].
+
+Indexing and Slicing
+
+    Access the second row and third column of a 2D array.
+    Slice a 3x3 array to extract the top-left 2x2 sub-array.
+    Replace all negative elements in an array with zero.
+    Reverse the rows of a given 2D array.
+    Retrieve all elements in an array greater than a given value 3.
+
+Array Operations
+
+    Perform element-wise addition, subtraction, multiplication, and division of two arrays.
+    Compute the dot product of two 2D arrays.
+    Normalize an array so that its values lie between 0 and 1.
+    Calculate the cumulative sum of elements in a NumPy array.
+    Compute the determinant and inverse of a 2x2 matrix.
+
+Statistical and Mathematical Functions
+
+    Calculate the mean, median, standard deviation, and variance of a NumPy array.
+    Find the index of the maximum and minimum values in a NumPy array.
+    Sort a NumPy array in ascending and descending order.
+    Generate 10 random integers between 50 and 100 and find their sum.
+    Compute the row-wise and column-wise sum of a 3x3 matrix.
+
+Boolean Indexing and Masking
+
+    Create a mask for elements greater than a specified value in an array.
+    Replace all elements in an array that are divisible by 3 with -1.
+    Extract all unique elements from a NumPy array.
+
+Advanced Topics
+
+    Perform matrix multiplication on two matrices and verify the result manually.
+    Use NumPy to solve a system of linear equations.
+    Write a function to calculate the Fibonacci sequence using NumPy arrays.
+    Generate a 2D grid of coordinates for plotting (e.g., using np.meshgrid).
